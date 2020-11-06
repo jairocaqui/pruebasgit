@@ -1,4 +1,6 @@
 historia de jairo  
 probando git 
 reset hard
-agregamos ssh como prueba para conectividad
+prueba 2 
+agregamos ssh como prueba para conectividad con la rama master 
+ 
